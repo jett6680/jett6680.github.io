@@ -1,0 +1,1 @@
+import{_ as e,o,c as a,x as t}from"./chunks/framework.c42f8d73.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"net/http/http.md"}'),n={name:"net/http/http.md"},s=t("blockquote",null,[t("p",null,"http协议")],-1),c=[s];function r(p,_,l,d,h,i){return o(),a("div",null,c)}const f=e(n,[["render",r]]);export{u as __pageData,f as default};
