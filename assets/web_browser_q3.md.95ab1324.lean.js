@@ -1,0 +1,1 @@
+import{_ as a,o as e,c as t,N as o}from"./chunks/framework.c42f8d73.js";const r="/assets/img_15.png",g=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"web/browser/q3.md"}'),n={name:"web/browser/q3.md"},s=o("",13),i=[s];function h(l,c,d,_,u,b){return e(),t("div",null,i)}const m=a(n,[["render",h]]);export{g as __pageData,m as default};
