@@ -5,7 +5,6 @@
 ## 访问地址
 
 - Github Page: [https://jett6680.github.io/](https://jett6680.github.io/)
-- 个人 Page: [https://www.fe-rtc.cn/](https://www.fe-rtc.cn/)
 
 ## 说明
 
